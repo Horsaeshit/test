@@ -21,14 +21,14 @@
      
 </div>
 
-> **Pons is to Robinhood Chain what the quiver is to Robin Hood.**
 
->A quiver carries what is needed for the journey ahead, keeping every arrow close until the moment it is needed. **Pons carries the same spirit into Robinhood Chain, built to give >every idea its shot.** And like every arrow tells a story of where it has been and where it is going, every launch becomes part of something bigger.
       
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2740,100:05070d&height=3&section=header" width="100%" />
    
           
-            
+> **Pons is to Robinhood Chain what the quiver is to Robin Hood.**
+
+>A quiver carries what is needed for the journey ahead, keeping every arrow close until the moment it is needed. **Pons carries the same spirit into Robinhood Chain, built to give >every idea its shot.** And like every arrow tells a story of where it has been and where it is going, every launch becomes part of something bigger.            
 
 This repository holds the Solidity source for the [ponsfamily.com](https://ponsfamily.com) token launchpad on Robinhood Chain, in both generations:
 
