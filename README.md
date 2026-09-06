@@ -24,7 +24,9 @@
 [![License](https://img.shields.io/badge/License-MIT-1a2740?style=flat-square)](LICENSE)
 
 <br><br>
+> **Pons is to Robinhood Chain what the quiver is to Robin Hood.**
 
+A quiver carries what is needed for the journey ahead, keeping every arrow close until the moment it is needed. **Pons carries the same spirit into Robinhood Chain, built to give every idea its shot.** And like every arrow tells a story of where it has been and where it is going, every launch becomes part of something bigger.
 <a href="https://x.com/ponsdotfamily">X</a>
   •   <a href="https://ponsfamily.com">Website</a>
   •   <a href="#architecture">Architecture</a>
