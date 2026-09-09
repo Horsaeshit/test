@@ -1,48 +1,3 @@
-<div style="background-color: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; padding: 40px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 20px 50px rgba(0,0,0,0.8); max-width: 1000px; margin: 0 auto;">
-
-<style>
-  @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-8px); } 100% { transform: translateY(0px); } }
-  @keyframes neonPulse { 0% { box-shadow: 0 0 10px rgba(234,88,12,0.1), inset 0 0 5px rgba(234,88,12,0.1); } 50% { box-shadow: 0 0 20px rgba(234,88,12,0.4), inset 0 0 10px rgba(234,88,12,0.2); } 100% { box-shadow: 0 0 10px rgba(234,88,12,0.1), inset 0 0 5px rgba(234,88,12,0.1); } }
-  @keyframes slideInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
-  @keyframes scanline { 0% { transform: translateY(-100%); } 100% { transform: translateY(100vh); } }
-  
-  h1, h2, h3 { color: #f97316; font-weight: 700; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-top: 2em; animation: slideInUp 0.8s ease-out; }
-  h1 { font-size: 2.8rem; text-align: center; background: linear-gradient(90deg, #ea580c, #fcd34d); -webkit-background-clip: text; color: transparent; border: none;}
-  
-  pre { 
-    background: #050505 !important; 
-    border: 1px solid #333 !important; 
-    border-radius: 10px !important; 
-    padding: 20px !important; 
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5) !important;
-    position: relative;
-    overflow: hidden;
-    animation: neonPulse 3s infinite;
-  }
-  
-  pre::before {
-    content: "● ● ●";
-    position: absolute;
-    top: 10px;
-    left: 15px;
-    color: #4b5563;
-    font-size: 12px;
-    letter-spacing: 2px;
-  }
-  
-  code { font-family: 'Fira Code', 'Courier New', monospace !important; color: #10b981 !important; }
-  p > code, li > code { background: rgba(30,41,59,0.7) !important; padding: 4px 8px !important; border-radius: 4px !important; color: #fcd34d !important; border: 1px solid rgba(252,211,77,0.3); }
-  
-  .status-box { background: rgba(15, 23, 42, 0.6); border-left: 4px solid #ea580c; padding: 20px; border-radius: 0 8px 8px 0; margin: 2rem 0; animation: slideInUp 1s ease-out; }
-  .status-box strong { color: #fdba74; width: 200px; display: inline-block; }
-  
-  table { width: 100%; border-collapse: collapse; margin: 2rem 0; animation: slideInUp 1s ease-out; }
-  th, td { border: 1px solid #30363d; padding: 12px 16px; text-align: left; }
-  th { background-color: #161b22; color: #f97316; font-weight: 600; }
-  td { background-color: #0d1117; }
-  
-  blockquote { border-left: 4px solid #3b82f6; background: rgba(59, 130, 246, 0.1); padding: 15px 20px; border-radius: 0 8px 8px 0; margin: 1.5rem 0; color: #93c5fd; font-style: italic; }
-</style>
 
 # Pons V2 — Burn Mode
 
@@ -51,10 +6,6 @@
 </div>
 
 <div class="status-box">
-  <div><strong>Status:</strong> Experimental Proposal</div>
-  <div><strong>Implementation:</strong> Standalone Solidity prototype</div>
-  <div><strong>Production integration:</strong> Not integrated</div>
-  <div><strong>Audit status:</strong> Not audited</div>
   <div><strong>Reference asset:</strong> Burning Pons (<code>$BURNTEST</code>)</div>
 </div>
 
