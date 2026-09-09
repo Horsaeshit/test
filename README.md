@@ -2,7 +2,7 @@
 # Pons V2 — Burn Mode
 
 <div align="center" style="margin-bottom: 3rem; animation: float 4s ease-in-out infinite;">
-  <img src="./logo.png" alt="Pons V2 Logo" width="150" style="filter: drop-shadow(0 0 25px rgba(234,88,12,0.8)); border-radius: 20px;">
+  <img src="./logo.png" alt="Pons Burn Logo" width="150" style="filter: drop-shadow(0 0 25px rgba(234,88,12,0.8)); border-radius: 20px;">
 </div>
 
 <div class="status-box">
