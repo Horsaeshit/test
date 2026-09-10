@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Pons V2 Ponstaking" width="180">
+  <img src="./ponstaking.jpg" alt="Pons V2 Ponstaking" width="180">
 </p>
 
 <h1 align="center">Pons V2 — Ponstaking</h1>
