@@ -30,11 +30,20 @@ The first asset used throughout this implementation is:
 
 > **Testing Asset — Ponstaking (`$PONSTAKE`)**
 
+**PONSTAKE Contract**
+```text
+0xa582df4a063c69a05a4356e0f1419cad92212f82
+```
+
+**Ponstaking Staking Contract**
+```text
+0x00000905c0053d943c89420b4c2561514dcb60fc
+```
+
 `$PONSTAKE` is used exclusively as the reference testing token for the current development phase.
 
 The architecture is intentionally designed so that the staking engine can later be extended beyond the test asset and made available across **all eligible token pairs launched through Pons**.
 
-```text
                          PONS ECOSYSTEM
                                │
                                ▼
